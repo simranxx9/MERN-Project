@@ -1,2 +1,2 @@
 # MERN-Project
-Project for Web
+Project for Web technology
