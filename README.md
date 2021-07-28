@@ -7,3 +7,5 @@ Project for Web technology
 > Consists of the voting different parties.
 
 > Allow you to vote for your different parties.
+
+> CRUD operation is performed
