@@ -8,4 +8,4 @@ Project for Web technology
 
 > Allow you to vote for your different parties.
 
-> CRUD operation is performed
+> CRUD operation is also performed
